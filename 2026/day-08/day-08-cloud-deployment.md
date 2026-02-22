@@ -63,7 +63,7 @@
 ``` bash
   scp -i your-key.pem ubuntu@<your-instance-ip>:~/nginx-log.txt .
 ```
-
+- [View nginx access log file](./nginx-log.txt)
 ---
 
 ## Challenge Faced 
