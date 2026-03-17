@@ -13,7 +13,7 @@
    - MX record: Directs email to a specific mail server.
    - NS record:  Defines which servers are authoritative for a domain.
 3. Run: `dig google.com` — identify the A record and TTL from the output
-   - Got Time-to-live (TTL) of 263 and has A record
+   - Got Time-to-live (TTL) of 263 and has A record.
 
 ![dig-image](https://github.com/NamanFakirde/90DaysOfDevOps/blob/master/2026/day-15/Images/dig-image.png)
 
