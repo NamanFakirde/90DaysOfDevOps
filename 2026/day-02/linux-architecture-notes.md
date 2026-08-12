@@ -18,8 +18,8 @@
   linux architecture is made of three different layers,
   <ol>
     <li>Applications: The software which the user interact with.</li>
-    <li>Shell: A terminal through with the user interact with the kernel.</li>
-    <li>Kernel: This is the heart of linux OS, its like a bridge computer hardware and its softwares.</li>
+    <li>Shell: A terminal through which the user interact with the kernel.</li>
+    <li>Kernel: This is the heart of linux OS, its like a bridge between computer hardware and its softwares.</li>
   </ol>
 </p>
 
@@ -28,7 +28,7 @@
 <h3>What systemd does and why it matters ?</h3>
 <p>
   <ol>
-    <li>Systemd is the intilization process</li>
+    <li>Systemd is the intilization (init) process</li>
     <li>It is the first process started by the kernel.</li>
     <li>It has PID 1 always. </li>
   </ol>
@@ -38,7 +38,7 @@
 
 <h3>Processes</h3>
 <p>
-  <b>Everything starts with a process in linux."</b><br>
+  <b>"Everything is a process in linux."</b><br>
   Below are the states of the process in linux:
   <ol>
     <li>Running: Actively using the CPU or waiting for a turn.</li>
