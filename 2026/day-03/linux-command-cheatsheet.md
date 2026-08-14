@@ -41,7 +41,7 @@
   This commands are used to monitor connectivity, check ports, and routing issues.
   <ul>
     <li>ping: check connectivity between the two nodes. </li>
-    <li>iwconfig: Shows wireless connection to the system.</li>
+    <li>ifconfig: Shows wireless connection to the system.</li>
     <li>netstat: Displays network connections, routing tables, and interface stats.</li>
     <li>curl : Transfers data from a serve.</li>
     <li>telnet: Checks if a specific port is open on a remote host.</li>
