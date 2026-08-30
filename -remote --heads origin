@@ -1,0 +1,12 @@
+[33mcommit 7b694af3463d9b0b796e469a91f58e330e19a4d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: NamanFakirde <fakirdr000@gmail.com>
+Date:   Mon Aug 31 00:12:38 2026 +0530
+
+    Added images
+
+A	2026/day-04/images/auth-log.png
+A	2026/day-04/images/pgrep-cmd.png
+A	2026/day-04/images/ps-aux.png
+A	2026/day-04/images/running-services.png
+A	2026/day-04/images/ssh-log.png
+A	2026/day-04/images/ssh-status.png
