@@ -13,7 +13,7 @@ This gives all active `sshd` process along with their PID.
 - `1416`: Active user sessions (pts/0).
 
 #### Output:
-![pgrep-sshd]()
+![pgrep-sshd](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-04/images/pgrep-cmd.png)
 
 
 ### 2. ps aux | grep sshd
@@ -25,7 +25,7 @@ This give snapshot of particularly all sshd processes.
 - `PID 1510` is a grep process for ssh which is normal.
 
 #### Output:
-![ps-aux]()
+![ps-aux](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-04/images/ps-aux.png)
 
 
 
@@ -40,7 +40,7 @@ It displays status,CPU/memory usage, uptime and recent logs of ssh service.
 - EC2 is connected using ssh authorized key.
 
 #### output
-![ssh-status]()
+![ssh-status](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-04/images/ssh-status.png)
 
 
 ### 4. `systemctl list-units --type=service --state=running`
@@ -52,7 +52,7 @@ List all the active running process of the system.
 - Our instance is stable and healthy.
 
 #### Output
-![running-services]()
+![running-services](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-04/images/running-services.png)
 
 
 
@@ -67,7 +67,7 @@ This gives most recent 20 journals/logs of ssh service.
 - public key authentication success.
 
 #### Output
-![ssh-log]()
+![ssh-log](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-04/images/ssh-log.png)
 
 
 ## 6. `tail -n 50 /var/log/auth.log`
@@ -79,7 +79,7 @@ Shows most recetn authentication and authorization logs.
 - Accepted public key.
 
 #### Output
-![auth-log]()
+![auth-log](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-04/images/auth-log.png)
 
 ## Key Learnings
 - ssh creates multiple processes as per user.
