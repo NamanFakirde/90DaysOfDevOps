@@ -62,7 +62,7 @@ Screenshot:
 # For AWS:
 scp -i your-key.pem ubuntu@<your-instance-ip>:~/nginx-logs.txt .
 ```
-[access-logs](log-files/access-log) <br>
+[access-logs](log-files/access-log.txt) <br>
 [nginx-logs](log-files/nginx-logs.txt)
 
 ---
