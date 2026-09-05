@@ -74,6 +74,7 @@ Other :        -> read only
 
 ## Permission Changes
 | Files | Before | After |
+|------|--------|-------|
 | devops.txt | -rw-rw-r-- | -r--r--r-- |
 | notes.txt | -rw-rw-r-- | -rw-r----- |
 | script.sh | -rw-rw-r-- | -rwxrwxr-x |
