@@ -83,3 +83,8 @@ df -h /mnt/app-data                             # list details of specified dire
 - verified using `df -h`
 
 ![extending-volume](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-13/Images/extending-volume.png)
+
+What I learned:
+1. How we can manage the external volumes and allocate it forn different usage.
+2. Volumes will be visible only when we mount it.
+3. If we want to extend the existing logical volume we can do that too.  
