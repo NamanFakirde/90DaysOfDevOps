@@ -82,7 +82,7 @@
 3. Run `ss -tulpn` — match at least 2 listening ports to their services
 - port 53, 80, 22 can be seen in the below image
 
-1[ss-image](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-15/Images/ss-image.png)
+![ss-image](https://github.com/NamanFakirde/90DaysOfDevOps/blob/main/2026/day-15/Images/ss-image.png)
 
 ## Task 5: Putting It Together
 Answer in 2–3 lines each:
